@@ -2,8 +2,7 @@
   "name": "google-translate-modal",
   "main": "./lib/google-translate-modal",
   "version": "1.2.2",
-  "description": "Add modal google translate page, forked from https://github.com/nju33/atom-google-translate-modal
-",
+  "description": "Add modal google translate page, forked from https://github.com/nju33/atom-google-translate-modal",
   "keywords": [
     "google",
     "translate",

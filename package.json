@@ -2,14 +2,15 @@
   "name": "google-translate-modal",
   "main": "./lib/google-translate-modal",
   "version": "1.2.2",
-  "description": "Add modal google translate page",
+  "description": "Add modal google translate page, forked from https://github.com/nju33/atom-google-translate-modal
+",
   "keywords": [
     "google",
     "translate",
     "modal",
     "toggle"
   ],
-  "repository": "https://github.com/nju33/atom-google-translate-modal",
+  "repository": "https://github.com/Hugal31/atom-google-translate-modal",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
